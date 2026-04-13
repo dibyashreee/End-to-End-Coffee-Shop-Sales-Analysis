@@ -160,11 +160,12 @@ ORDER BY total_transactions DESC;
 
 ## 🙋 About the Author
 
-**Dibyashree**
-Aspiring Data Analyst | SQL • Excel • Power BI
+**Dibyashree Dey**
+Data Analyst | SQL • Excel • Power BI
 
-- 🔗 [LinkedIn](www.linkedin.com/in/dibyashreedey)
-- 📁 [GitHub Portfolio](https://github.com/dibyashreee)
+**LinkedIn:** www.linkedin.com/in/dibyashreedey 
+
+**Email:** dibyashree15dey01@gmail.com
 
 ---
 
