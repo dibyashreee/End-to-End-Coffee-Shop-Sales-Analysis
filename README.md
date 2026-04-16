@@ -17,6 +17,21 @@ This project performs an end-to-end sales analysis for a coffee shop chain using
 
 ---
 
+## 🛠 Skills Demonstrated
+
+- Data Cleaning & Preparation (Excel)
+- Exploratory Data Analysis (EDA)
+- Business KPI Analysis (Revenue, AOV, Transactions)
+- Time-Based Analysis (Hourly, Daily, Monthly trends)
+- Pivot Tables & Advanced Excel Functions
+- SQL for Data Aggregation & Querying
+- Data Visualization & Dashboard Design (Power BI)
+- Sales Performance Analysis (Products & Categories)
+- Store-Level Performance Comparison
+- Insight Generation & Business Recommendations
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
