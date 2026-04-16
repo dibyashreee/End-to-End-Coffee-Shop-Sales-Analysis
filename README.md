@@ -11,9 +11,9 @@ Sales performance visibility is critical for any retail food & beverage business
 ---
 
 ## 📌 Dashboard Previews
-![Dashboard 1](screenshots/dashboard_1.png)
-![Dashboard 2](screenshots/dashboard_2.png)
-![Dashboard 3](screenshots/dashboard_3.png)
+![Dashboard 1](charts/dashboard_1.png)
+![Dashboard 2](charts/dashboard_2.png)
+![Dashboard 3](charts/dashboard_3.png)
 
 ---
 
@@ -72,10 +72,10 @@ End-to-End-Coffee-Shop-Sales-Analysis/
 │   ├── 06_sales_trends_time_analysis.sql
 │   └── 07_location_intelligence.sql
 │
-├── dashboard/
+├── powerbi/
 │   └── dashboards.pbix                         ← Power BI dashboard file
 │
-├── screenshots/
+├── charts/
 │   ├── dashboard_1.png
 │   ├── dashboard_2.png
 │   └── dashboard_3.png
@@ -221,7 +221,7 @@ cd End-to-End-Coffee-Shop-Sales-Analysis
    - Open `excel/Coffee Shop Sales Analysis.xlsx` to view pivot tables and charts
 
 5. **View the dashboard**
-   - Open `dashboard/dashboards.pbix` in Power BI Desktop
+   - Open `powerbi/dashboards.pbix` in Power BI Desktop
 
 ---
 
