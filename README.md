@@ -11,9 +11,9 @@ This project performs an end-to-end sales analysis for a coffee shop chain using
 ---
 
 ## 📌 Dashboard Previews
-![Dashboard 1](dashboard/dashboard_1.png)
-![Dashboard 2](dashboard/dashboard_2.png)
-![Dashboard 3](dashboard/dashboard_3.png)
+![Dashboard 1](screenshots/dashboard_1.png)
+![Dashboard 2](screenshots/dashboard_2.png)
+![Dashboard 3](screenshots/dashboard_3.png)
 
 ---
 
