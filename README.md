@@ -32,16 +32,6 @@ This project performs an end-to-end sales analysis for a coffee shop chain using
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| **Excel** | Data cleaning, pivot tables, preliminary exploration |
-| **SQL** | Data querying, aggregation, and transformation |
-| **Power BI** | Interactive dashboard and data visualisation |
-
----
-
 ## 📊 Key Business Questions Answered
 
 - What are the monthly and weekly revenue trends?
@@ -52,20 +42,30 @@ This project performs an end-to-end sales analysis for a coffee shop chain using
 
 ---
 
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **Excel** | Data cleaning, pivot tables, preliminary exploration |
+| **SQL** | Data querying, aggregation, and transformation |
+| **Power BI** | Interactive dashboard and data visualisation |
+
+---
+
 ## 📁 Project Structure
 
 ```
 End-to-End-Coffee-Shop-Sales-Analysis/
 │
 ├── data/
-│   └── Coffee Shop Sales Raw Data.xlsx        # Raw transactional dataset
-│   └── Coffee Shop Sales Working Data.csv     # Cleaned Dataset used in analysis
+│   └── Coffee Shop Sales Raw Data.xlsx        ← Raw transactional dataset
+│   └── Coffee Shop Sales Working Data.csv     ← Cleaned Dataset used in analysis
 │
 ├── excel/
-│   └── Coffee Shop Sales Analysis.xlsx         # Cleaned data, pivot tables & charts
+│   └── Coffee Shop Sales Analysis.xlsx         ← Cleaned data, pivot tables & charts
 │
 ├── sql/
-│   └── 01_table creation.sql            #  All 7 SQL queries
+│   └── 01_table creation.sql            ←  All 7 SQL queries
 │   └── 02_data_import.sql
 │   └── 03_data_cleaning_transformation.sql
 │   └── 04_data_quality_audit.sql
@@ -75,10 +75,10 @@ End-to-End-Coffee-Shop-Sales-Analysis/
 
 │
 ├── dashboard/
-│   └── dashboards.pbix   # Power BI dashboard file
+│   └── dashboards.pbix   ← Power BI dashboard file
 │
 ├── screenshots/
-│   └── dashboard_1.png      # 3 Dashboard  images
+│   └── dashboard_1.png      ← 3 Dashboard  images
 │   └── dashboard_2.png
 │   └── dashboard_3.png   
 │
