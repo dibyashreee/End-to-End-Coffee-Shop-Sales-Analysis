@@ -10,6 +10,13 @@ This project performs an end-to-end sales analysis for a coffee shop chain using
 
 ---
 
+## 📌 Dashboard Previews
+![Dashboard 1](dashboard/dashboard_1.png)
+![Dashboard 2](dashboard/dashboard_2.png)
+![Dashboard 3](dashboard/dashboard_3.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
@@ -37,18 +44,28 @@ End-to-End-Coffee-Shop-Sales-Analysis/
 │
 ├── data/
 │   └── Coffee Shop Sales Raw Data.xlsx        # Raw transactional dataset
-│
-├── sql/
-│   └── sales_analysis_queries.sql    # All SQL queries used for analysis
+│   └── Coffee Shop Sales Working Data.csv     # Cleaned Dataset used in analysis
 │
 ├── excel/
-│   └── Coffee Shop Sales Analysis.xlsx           # Cleaned data, pivot tables & charts
+│   └── Coffee Shop Sales Analysis.xlsx         # Cleaned data, pivot tables & charts
+│
+├── sql/
+│   └── 01_table creation.sql            #  All 7 SQL queries
+│   └── 02_data_import.sql
+│   └── 03_data_cleaning_transformation.sql
+│   └── 04_data_quality_audit.sql
+│   └── 05_product_performance_analysis.sql
+│   └── 06_sales_trends_time_analysis.sql
+│   └── 07_location_intelligence.sql
+
 │
 ├── dashboard/
 │   └── dashboards.pbix   # Power BI dashboard file
 │
 ├── screenshots/
-│   └── dashboard_preview.png         # Dashboard preview image
+│   └── dashboard_1.png      # 3 Dashboard  images
+│   └── dashboard_2.png
+│   └── dashboard_3.png   
 │
 └── README.md
 ```
